@@ -47,3 +47,7 @@ Each character typed in is checked against whatever index in the string the play
 
 
 Wherever the Random Engine Struct or wordlist vector of strings is used, it is referenced directly so as to not create copies.
+
+
+## Third party notice
+where i got the wordlist.txt from
